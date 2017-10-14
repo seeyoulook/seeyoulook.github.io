@@ -2587,6 +2587,20 @@ body {
     flex-shrink: 0;
   }
 }
+.cid-qy2PwJzcwP {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #149dcc;
+  background: linear-gradient(0deg, #149dcc, #ffffff);
+}
+.cid-qy2PwJzcwP .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-qy2PwJzcwP .video-block {
+    width: 100% !important;
+  }
+}
 .cid-qy289jRW2Z .navbar {
   padding: .5rem 0;
   background: #333333;
